@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "Nokia X300",
+      "brand": "Nokia",
+      "category": "Phones",
+      "price": "211",
+      "description": "Red color",
+      "createdAt": "2023-03-07",
+      "id": 2
+    },
+    {
+      "name": "Dell Latitude L12",
+      "brand": "Dell",
+      "category": "Computers",
+      "price": "900",
+      "description": "Professional computer",
+      "createdAt": "2023-03-09",
+      "id": 3
+    },
+    {
+      "name": "iPhone 14",
+      "brand": "Apple",
+      "category": "Phones",
+      "price": "999",
+      "description": "New smartphone",
+      "createdAt": "2023-03-09",
+      "id": 4
+    },
+    {
+      "name": "Josue Daniel Dueñas Bolaños",
+      "brand": "hola",
+      "category": "Phones",
+      "price": "44",
+      "description": "yo mismo",
+      "createdAt": "2023-09-09",
+      "id": 5
+    },
+    {
+      "name": "red dead redemption Remake",
+      "brand": "Rockstar Games",
+      "category": "Other",
+      "price": "60",
+      "description": "Remake of Red Dead Redemption 2016",
+      "createdAt": "2023-09-09",
+      "id": 6
+    }
+  ]
+}
